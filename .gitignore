@@ -251,3 +251,7 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+# JetBrains CLion
+.idea/
+cmake-build-debug/
